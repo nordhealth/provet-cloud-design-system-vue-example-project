@@ -8,6 +8,8 @@
 
     "paths": {
       "@/*": ["./src/*"]
-    }
+    },
+
+    "types": ["@provetcloud/web-components-vue-types"]
   }
 }
